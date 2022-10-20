@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>소프트웨어 공학 on Sangchu&#39;s Devlog</title>
+    <link>https://sangchu77.github.io/categories/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99/</link>
+    <description>Recent content in 소프트웨어 공학 on Sangchu&#39;s Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Oct 2022 02:28:07 +0900</lastBuildDate><atom:link href="https://sangchu77.github.io/categories/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering ch1~4</title>
+      <link>https://sangchu77.github.io/post/test/</link>
+      <pubDate>Wed, 19 Oct 2022 02:28:07 +0900</pubDate>
+      
+      <guid>https://sangchu77.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
