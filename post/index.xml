@@ -8,6 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Oct 2022 02:28:07 +0900</lastBuildDate><atom:link href="https://sangchu77.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Software Engineering</title>
+      <link>https://sangchu77.github.io/post/softengineering/%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8-ed11e077d52f4a62995c0b47f756a272/</link>
+      <pubDate>Wed, 19 Oct 2022 02:28:07 +0900</pubDate>
+      
+      <guid>https://sangchu77.github.io/post/softengineering/%E1%84%89%E1%85%A9%E1%84%91%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8B%E1%85%B0%E1%84%8B%E1%85%A5-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8-ed11e077d52f4a62995c0b47f756a272/</guid>
+      <description>소프트웨어 공학 스크랩 요약 정리
+Ch1. 소트웨어 공학 개요 소프트웨어는 무엇인가?
+→ 프로그램과 관련된 모든 사항들을 포함, 전문적으로 개발된 소프트웨어는 많은 요소들로 구성
+이러한 소프트웨어 제품은 두가지 유형으로 나뉘게 된다
+일반(generic) 제품 : 특정 개발 조직이 생산한 독립형 시스템으로서 개발하는 조직이 소프트웨어 명세를 관리하게 된다. 맞춤식 (custimized, bespoke) 소프트웨어: 특정 고객의 요구에 맞추어 개발하는 시스템으로서 구매하는 조직이 소프트웨어 명세를 관리하게 된다. 위의 차이는 점차 모호해지는 중.
+좋은 소프트웨어의 필수적인 특성</description>
+    </item>
+    
+    <item>
       <title>Software Engineering ch1~4</title>
       <link>https://sangchu77.github.io/post/test/</link>
       <pubDate>Wed, 19 Oct 2022 02:28:07 +0900</pubDate>
